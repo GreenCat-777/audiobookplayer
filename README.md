@@ -1,7 +1,7 @@
 # audiobookplayer
 Actually a really good audiobook player for web. Built it as I needed one for PC.
 
-![Whoops! I messed the image up](https://github.com/greencat-777/audiobookplayer/raw/master/imgs/showcase.png)
+![Whoops! I messed the image up](https://raw.githubusercontent.com/GreenCat-777/audiobookplayer/refs/heads/main/imgs/showcase.png)
 
 # Disclaimer
 I HAVE NO CONNECTION TO **The Hobbit** OR ANY CONNECTED ENTERPRISES AND COPYRIGHT I.E. Amazon
