@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
+
 # audiobookplayer
 Actually a really good audiobook player for web. Built it as I needed one for PC. You can see the folder being the author's name in action here.
 
